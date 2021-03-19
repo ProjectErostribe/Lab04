@@ -14,7 +14,7 @@ I wanted to build a really impressive site where people would get to see my art,
 #####PAGES OF THE WEBSITE#####  | #####LANGUAGE USED / USER INPUT#####
 ---------------------           |----------------------------------
 -index.html                     | HTML, CSS, JS
--ABOUT                          | HTML, CSS, JS. 
+-ABOUT                          | HTML, CSS, JS. No user input
 -THINGS I'VE BUILT              | HTML, CSS, JS. No user input
 -BUY ME A MATCHA                | React. Select an amount to donate, message
 -CONTACT ME                     | N/S. Contact information
@@ -27,11 +27,14 @@ From there I built a wireframe of what I wanted the website to look like on Mock
 ### INDEX.HTML:
 
 ### ABOUT:
-
+This button should take the user to the About Me section to the About Me section of the page.
 ### THINGS I'VE BUILT:
-
+This part of the page should take the user to the section of the page that displays my portfolio work.  I would like to use a Synthwave photo for the clickable icon.
 ### BUY ME A MATCHA:
-### CONTACT ME:
+This is a separate page that I would like to build.  It should be a dupe of the page "Buy Me A Coffee."  I want the page to be matcha themed, and users can donate either a small, medium or large matcha.
 
+At the bottom of the page there should be a back button that takes the user back to the Home section of the page.
+### CONTACT ME:
+This section of the page should have a contact form for users to enter in their contact information.  After the user hits send, it should send an email to info@projecterostribe.com.
 
 
